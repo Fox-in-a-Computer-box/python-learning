@@ -1,0 +1,8 @@
+def print_lyrics(x):
+    y = 0
+    while y < x:
+        print("I'm a lumberjack, and I'm okay\n")
+        print("I sleep all night and I work all day\n")
+        y = y + 1
+    
+print_lyrics(3) #replace 3 with however many times you want it to run
